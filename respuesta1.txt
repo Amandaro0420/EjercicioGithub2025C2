@@ -1,0 +1,4 @@
+¿Cuáles son los principales desafíos que enfrentan las organizaciones al 
+adoptar Scrum y cómo pueden superarlos? 
+
+Los principales desafíos al adoptar Scrum incluyen la resistencia al cambio, la necesidad de involucrar a toda la organización, la imprevisibilidad del proceso y el cambio radical en la forma de trabajar. Para superarlos, se debe fomentar una cultura de mejora continua, adaptar Scrum al contexto de la empresa, evitar imponer reglas rígidas y asegurar el compromiso tanto de la alta dirección como de los equipos.
